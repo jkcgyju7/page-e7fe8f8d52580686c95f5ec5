@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "d6e81806f12d93d8adeda8f3",
+  "owner": "jkcgyju7",
+  "repo": "page-e7fe8f8d52580686c95f5ec5",
+  "title": "clash节点",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e7fe8f8d52580686c95f5ec5",
+      "a": "clash节点",
+      "b": "",
+      "entity": "clash节点",
+      "brand": "clash节点",
+      "separator": "",
+      "path": "index.html",
+      "hash": "e6eafeb649ede3ddc0ac92a9d0fc0c4bdc2cdd000e4ccd47a62c882e2478fd92",
+      "content": {
+        "keyword1": "clash节点",
+        "keyword2": "",
+        "primary_entity": "clash节点",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "clash节点为您提供高质量的Clash节点服务，涵盖基础到团队版套餐，支持多设备加速，客户端一键下载，即刻开启极速网络体验！",
+          "AI_DESCRIPTION": "clash节点为您提供高质量的Clash节点服务，涵盖基础到团队版套餐，支持多设备加速，客户端一键下载，即刻开启极速网络体验！"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        body {\n            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;\n            line-height: 1.7;\n            color: #333333;\n            background-color: #f8f5f2;\n            margin: 0;\n            padding: 0;\n            max-width: 100%;\n            overflow-x: hidden;\n        }\n        main {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 20px;\n        }\n        h1 {\n            color: #ff6b35;\n            text-align: center;\n            font-size: 2.8em;\n            margin-bottom: 10px;\n        }\n        h2 {\n            color: #ff6b35;\n            font-size: 1.8em;\n            margin-top: 40px;\n            margin-bottom: 20px;\n        }\n        p {\n            font-size: 1.05em;\n            margin-bottom: 20px;\n        }\n        ul, ol {\n            padding-left: 20px;\n            margin-bottom: 20px;\n        }\n        li {\n            margin-bottom: 8px;\n            font-size: 1.05em;\n        }\n        .plan-container {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));\n            gap: 20px;\n            margin-bottom: 40px;\n        }\n        .plan-card {\n            background: white;\n            border-radius: 12px;\n            padding: 25px;\n            box-shadow: 0 4px 15px rgba(255, 107, 53, 0.1);\n            transition: transform 0.3s ease;\n        }\n        .plan-card:hover {\n            transform: translateY(-5px);\n        }\n        .plan-card.featured {\n            border: 3px solid #ff6b35;\n            position: relative;\n        }\n        .plan-card.featured::after {\n            content: '推荐';\n            position: absolute;\n            top: -10px;\n            right: 20px;\n            background: #ff6b35;\n            color: white;\n            padding: 5px 15px;\n            border-radius: 20px;\n            font-size: 0.9em;\n        }\n        .plan-card h3 {\n            font-size: 1.6em;\n            margin-bottom: 10px;\n        }\n        .plan-price {\n            font-size: 1.3em;\n            color: #ff6b35;\n            font-weight: bold;\n            margin: 15px 0;\n        }\n        .plan-features {\n            list-style: none;\n            padding: 0;\n        }\n        .plan-features li {\n            padding: 8px 0;\n            border-bottom: 1px solid #eee;\n        }\n        .plan-features li:last-child {\n            border-bottom: none;\n        }\n        details {\n            margin-bottom: 15px;\n            background: white;\n            padding: 15px;\n            border-radius: 8px;\n            box-shadow: 0 2px 8px rgba(0,0,0,0.05);\n        }\n        summary {\n            font-weight: bold;\n            cursor: pointer;\n            font-size: 1.1em;\n            color: #ff6b35;\n        }\n        @media (max-width: 768px) {\n            main {\n                padding: 15px;\n            }\n            h1 {\n                font-size: 2.2em;\n            }\n            .plan-container {\n                grid-template-columns: 1fr;\n            }\n        }\n    </style>\n    \n\n\n    <main>\n        <h1>clash节点</h1>\n        <section>\n            <h2>品牌介绍</h2>\n            <p>clash节点是专注于提供优质Clash协议节点的VPN梯子网络加速服务。我们致力于为用户带来稳定、高速、可靠的网络体验，无论您是个人用户还是企业团队，都能找到适合的方案。</p>\n            <p>我们的节点经过严格筛选，确保连接速度和稳定性，专为加速器需求设计。</p>\n        </section>\n        <section>\n            <h2>使用场景</h2>\n            <p>clash节点适用于多种网络加速需求，包括但不限于：</p>\n            <ul>\n                <li>解锁流媒体平台的内容限制，如Netflix、YouTube、Disney+ 等</li>\n                <li>在线游戏的低延迟加速</li>\n                <li>支持多台设备同时在线的家庭网络共享</li>\n                <li>海外访问和远程办公</li>\n            </ul>\n        </section>\n        <section>\n            <h2>客户端选择</h2>\n            <p>我们提供多种官方客户端下载，让您轻松选择适合的加速器客户端。无论使用Windows、macOS、Android还是iOS，都能获得最佳体验。</p>\n        </section>\n        <section>\n            <h2>套餐选择</h2>\n            <div class=\"plan-container\">\n                <div class=\"plan-card\">\n                    <h3>基础版</h3>\n                    <div class=\"plan-price\">¥15/月 按年付仅需 ¥150/年</div>\n                    <ul class=\"plan-features\">\n                        <li>每月 100GB 极速流量</li>\n                        <li>支持 3 台设备同时在线</li>\n                        <li>解锁基础流媒体</li>\n                        <li>普通线路节点池</li>\n                    </ul>\n                </div>\n                <div class=\"plan-card featured\">\n                    <h3>旗舰版</h3>\n                    <div class=\"plan-price\">¥35/月 按年付仅需 ¥350/年</div>\n                    <ul class=\"plan-features\">\n                        <li>每月 300GB 极速流量</li>\n                        <li>支持 5 台设备同时在线</li>\n                        <li>全节点原生流媒体解锁</li>\n                        <li>IPLC 专线游戏加速优化</li>\n                        <li>7x24 优先工单支持</li>\n                    </ul>\n                </div>\n                <div class=\"plan-card\">\n                    <h3>团队版</h3>\n                    <div class=\"plan-price\">¥85/月 按年付仅需 ¥850/年</div>\n                    <ul class=\"plan-features\">\n                        <li>每月 1000GB 极速流量</li>\n                        <li>支持 20 台设备同时在线</li>\n                        <li>VIP 专属高带宽节点</li>\n                        <li>支持企业定制路由</li>\n                        <li>专属客户经理服务</li>\n                    </ul>\n                </div>\n            </div>\n        </section>\n        <section>\n            <h2>操作说明</h2>\n            <ol>\n                <li>访问官网下载对应平台的客户端</li>\n                <li>安装完成后，获取您的专属节点订阅链接</li>\n                <li>在客户端中导入订阅或手动添加节点</li>\n                <li>选择合适的节点连接，即可享受高速网络加速</li>\n                <li>随时管理您的流量使用情况</li>\n            </ol>\n        </section>\n        <section>\n            <h2>常见问题 FAQ</h2>\n            <details>\n                <summary>什么是clash节点？</summary>\n                <p>clash节点是专业的Clash协议VPN节点加速服务，提供稳定高速的节点池，让用户轻松实现网络加速和内容解锁。</p>\n            </details>\n            <details>\n                <summary>如何选择适合自己的套餐？</summary>\n                <p>根据您的流量需求、设备数量和使用场景选择。基础版适合个人轻度使用，旗舰版适合重度加速需求，团队版适合企业多人使用。</p>\n            </details>\n            <details>\n                <summary>如何下载和使用客户端？</summary>\n                <p>我们提供官方客户端下载，您可以根据设备选择对应平台客户端，安装后导入节点即可使用。</p>\n            </details>\n            <details>\n                <summary>支持哪些设备？</summary>\n                <p>支持Windows、macOS、Android、iOS、路由器等多种设备平台。</p>\n            </details>\n            <details>\n                <summary>节点质量如何保障？</summary>\n                <p>我们的节点经过筛选和优化，提供高带宽、稳定线路，专为加速器使用设计。</p>\n            </details>\n        </section>\n        <section>\n            <h2>广告与友情链接</h2>\n            <p>广告位招募中，欢迎联系我们投放广告。</p>\n            <p>友情链接：一些合作伙伴网站</p>\n        </section>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n\n",
+          "hash": "5dc7e86f85b4697614cfe5c04741bf6ac7274494eb7d402127515d8b74a7773f",
+          "seo": {
+            "title": "clash节点 - 优质 Clash 节点 VPN 加速器 客户端下载",
+            "keywords": "clash节点,vpn,梯子,加速器,客户端下载,clash节点订阅",
+            "description": "clash节点为您提供高质量的Clash节点服务，涵盖基础到团队版套餐，支持多设备加速，客户端一键下载，即刻开启极速网络体验！"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "54e6d3.cn",
+    "host": "p-c0ce3edcbe.54e6d3.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "4adb6096dfae0996f14f18febba22bb69d465a0f168692be8ebdc622789d1d38",
+    "sitemap.xml": "829fe6823de5a0db860430080609ead8d9d558e5239f2915dda43fd9cf5d4ab0",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "28b29d579f16318fcdacd89ead429fb90bfe5ea0019270824a6f7e5de8fd5551",
+    "robots.txt": "3fadcaa426c6b61a43325644b39a767bc194c6059d970cbcec0e6c86159d1155",
+    "46308ad7f95006551b0a04ba481a61ea.txt": "b2cbcb72e3fa9d14448bde1471a45ab602dd61180f262a225bc06e85f06bacd6"
+  },
+  "revision": "cbff9c1b1c996aff9f7136671b7babf2de306ec0b92710ae782144c021c10fe5"
+}
